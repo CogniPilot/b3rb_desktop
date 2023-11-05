@@ -20,10 +20,10 @@ ARGUMENTS = [
 
 def generate_launch_description():
 
-    pkg_mrbuggy3_rviz = get_package_share_directory('mrbuggy3_rviz')
+    pkg_b3rb_rviz = get_package_share_directory('b3rb_rviz')
 
     rviz2_config = PathJoinSubstitution(
-        [pkg_mrbuggy3_rviz, 'rviz', 'nav2', 'robot.rviz'])
+        [pkg_b3rb_rviz, 'rviz', 'nav2', 'robot.rviz'])
 
     rviz_node = Node(
         package='rviz2',

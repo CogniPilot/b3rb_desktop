@@ -1,2 +1,2 @@
-# mrbuggy3_desktop
-Packages for interacting with MR Buggy3 on a Desktop
+# b3rb_desktop
+Packages for interacting with B3RB on a Desktop
