@@ -1,0 +1,10 @@
+<library path="b3rb_rviz_plugins">
+
+  <class name="b3rb_rviz_plugins/B3RBPanel"
+         type="b3rb_rviz_plugins::B3RBPanel"
+         base_class_type="rviz_common::Panel">
+    <description>The b3rb rviz panel.</description>
+  </class>
+
+</library>
+
